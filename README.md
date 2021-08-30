@@ -1,2 +1,2 @@
-# CodeWars_battles
+# CodeWars_Battles
 Create Phone Number
