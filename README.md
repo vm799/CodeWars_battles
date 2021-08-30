@@ -11,7 +11,8 @@ The returned format must be correct in order to complete this challenge.
 Don't forget the space after the closing parentheses!
 
 
-#Solution
+
+# Solution
 
 function createPhoneNumber(numbers){
   var format = "(xxx) xxx-xxxx";
